@@ -6,10 +6,17 @@
 	objectVersion = 46;
 	objects = {
 
+/* Begin PBXFileReference section */
+		9A270CE71ACD14EC0028A8FE /* COMMHyponosisView.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = COMMHyponosisView.h; sourceTree = "<group>"; };
+		9A270CE81ACD14EC0028A8FE /* COMMHyponosisView.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = COMMHyponosisView.m; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
 /* Begin PBXGroup section */
 		9A270CE01ACD14670028A8FE = {
 			isa = PBXGroup;
 			children = (
+				9A270CE71ACD14EC0028A8FE /* COMMHyponosisView.h */,
+				9A270CE81ACD14EC0028A8FE /* COMMHyponosisView.m */,
 			);
 			sourceTree = "<group>";
 		};
